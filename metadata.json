@@ -1,0 +1,6 @@
+{
+  "name": "VAULT_OS - Digital Identity Vault",
+  "description": "Next-generation personal digital identity vault and credential manager with end-to-end AES-256-GCM encryption, biometric authentication, multi-device sync, credential health analysis, and real-time dark web breach monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

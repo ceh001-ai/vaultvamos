@@ -1,0 +1,9 @@
+{
+  "appId": "com.vaultos.app",
+  "appName": "Vault OS",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "always"
+  }
+}
